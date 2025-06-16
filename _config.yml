@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Ke (Kelsey) Sun
+title                    : "Ke (Kelsey) Sun"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
