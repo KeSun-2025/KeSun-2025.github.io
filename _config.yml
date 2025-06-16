@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Ke (Kelsey) Sun"
+title                    : "Ke (Kelsey) Sun
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -26,8 +26,8 @@ author:
   name             : "Ke Sun"
   pronouns         : She"  
   bio              : "Postdoctoral Researcher in McGill"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Canada"
+  employer         : "McGill University"
   uri              : # https://kesun-2025.github.io/
   email            : "ke.sun@mail.mcgill.ca" 
 
@@ -38,7 +38,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-2095-929X"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
