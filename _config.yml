@@ -22,7 +22,7 @@ repository               : "KeSun-2025/KeSun-2025.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "my-photo.jpg"
   name             : "Ke Sun"
   pronouns         : "She"  
   bio              : "Postdoctoral Researcher in McGill"
@@ -30,6 +30,7 @@ author:
   employer         : "McGill University"
   uri              : "https://kesun-2025.github.io/"
   email            : "ke.sun@mail.mcgill.ca" 
+  
 
   # Academic websites
   academia         : # URL
@@ -37,7 +38,8 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=cNrI-uMAAAAJ"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-2095-929X"
-  semantic         : # URL
+  linkedin    : "https://www.linkedin.com/feed/"
+  # semantic         : # URL
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # researchgate     : # URL
   # scopus           : # URL
