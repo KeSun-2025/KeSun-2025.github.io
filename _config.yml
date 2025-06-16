@@ -24,12 +24,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Ke Sun"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : She"  
+  bio              : "Postdoctoral Researcher in McGill"
   location         : "Earth"
   employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  uri              : # https://kesun-2025.github.io/
+  email            : "ke.sun@mail.mcgill.ca" 
 
   # Academic websites
   academia         : # URL
