@@ -42,7 +42,7 @@ redirect_from:
 
 1. **Sun, K.**, Liu, Y., Yang, L.  
    *Order Ahead for Pickup: Promise or Peril?*  
-   *Manufacturing & Service Operations Management*, Major Revision (3rd Round)  
+   Major Revision (3rd Round) at *Manufacturing & Service Operations Management* 
    [https://dx.doi.org/10.2139/ssrn.3673617](https://dx.doi.org/10.2139/ssrn.3673617)
 
 2. Kong, G., Kong Q., Liu, Y., **Sun, K.**, Zhu, R.  
@@ -62,6 +62,15 @@ redirect_from:
 5. **Sun, K.**, Liu, Y., Li, X.  
    *Make Waiting Not to Seem Like Waiting: Capacity Management of Waiting-Area Entertainment*  
    *Operations Research Letters*, **2022**, **50**(6), 745–752.
+
+6. Wang, J., **Sun, K.**  
+   *Optimal Pricing and Capacity Sizing for Online Service Systems with Free Trials*  
+   *OR Spectrum*, **44**(1), 57–86, **2021**.
+
+7. **Sun, K.**  
+   *Strategic Responses to the Aggregator Platform: Pricing and Information Sharing*  
+   *Journal of Retailing and Consumer Services*, **79**, 103874, **2024**.
+
 
 ### Teaching Experience
 
