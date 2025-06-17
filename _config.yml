@@ -26,8 +26,8 @@ author:
   # Biographic information
   avatar           : "my-photo.jpg"
   name             : "Ke Sun"
-  pronouns         : "She"  
-  bio              : "Postdoctoral Researcher in McGill"
+  # pronouns         : "She"  
+  bio              : "Postdoctoral Researcher in Desautels Faculty of Management"
   location         : "Canada"
   employer         : "McGill University"
   uri              : "https://kesun-2025.github.io/"
