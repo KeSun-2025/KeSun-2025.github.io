@@ -11,7 +11,7 @@ redirect_from:
 ### About
 
 **Ke Sun** is a postdoctoral researcher at McGill University,  Desautels Faculty of Management. Her research focuses on data-driven decision-making, including stochastic models, queueing theory, simulation, optimal control, and reinforcement learning, with applications to service systems.
-[📄 Download My CV](../files/CV.pdf)
+[📄 Download My CV](../files/CV2025.pdf)
 
 ### Professional Experience
 
