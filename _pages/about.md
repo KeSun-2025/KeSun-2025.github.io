@@ -52,7 +52,7 @@ redirect_from:
 
 3. **Sun, K.**, Liu, Y., Liu, J., Wang, Z.  
    *Self-Service or Staffed Checkout? Service Channel Strategies in Supermarkets*  
-   Under review at *Manufacturing & Service Operations Management*  
+    to be submitted to *Production and Operations Management*  
    [https://dx.doi.org/10.2139/ssrn.5075233](https://dx.doi.org/10.2139/ssrn.5075233)
 
 4. **Sun, K.**, Liu, Y., Li, X.  
