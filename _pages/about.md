@@ -52,7 +52,7 @@ redirect_from:
 
 3. **Sun, K.**, Liu, Y., Liu, J., Wang, Z.  
    *Self-Service or Staffed Checkout? Service Channel Strategies in Supermarkets*  
-    to be submitted to *Production and Operations Management*  
+    under review at *Production and Operations Management*  
    [https://dx.doi.org/10.2139/ssrn.5075233](https://dx.doi.org/10.2139/ssrn.5075233)
 
 4. **Sun, K.**, Liu, Y., Li, X.  
@@ -75,7 +75,7 @@ redirect_from:
 ### Teaching Experience
 
 **McGill University**  
-- *Summer 2025 (ongoing)*: Operations Management (MGCR 372)
+- *Summer 2025*: Operations Management (MGCR 372), evaluation: 4.3/5
   
 **Beijing University of Chemical Technology**  
 - *Summer 2022 & 2023*: Matlab Simulation  
