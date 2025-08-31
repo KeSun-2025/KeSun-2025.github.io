@@ -31,7 +31,7 @@ redirect_from:
   *2019.10 – 2020.11*
 
 - **Beijing Jiaotong University**, *Ph.D. in Statistics*  
-  *2016.06 – 2021.06*
+  *2016.09 – 2021.06*
 
 - **Beijing Jiaotong University**, *B.S. in Information and Computing Science*  
   *2012.09 – 2016.06*
@@ -47,7 +47,7 @@ redirect_from:
 
 2. Kong, G., Kong Q., Liu, Y., **Sun, K.**, Zhu, R.  
    *Harness the Power of Patience: The Evaluation of On-demand and Reservation Business Model of Ride Hailing Services*  
-   Reject & Resubmit at *Manufacturing & Service Operations Management*  
+   R&R at *Manufacturing & Service Operations Management*  
    [https://ssrn.com/abstract=4741537](https://ssrn.com/abstract=4741537)
 
 3. **Sun, K.**, Liu, Y., Liu, J., Wang, Z.  
@@ -78,9 +78,9 @@ redirect_from:
 - *Summer 2025*: Operations Management (MGCR 372), evaluation: 4.3/5
   
 **Beijing University of Chemical Technology**  
-- *Summer 2022 & 2023*: Matlab Simulation  
-- *Spring 2022 & 2023*: Electronic Commerce  
-- *Spring 2022 & 2023*: Electronic Commerce Experiment
+- *Summer 2022 & 2023*: Matlab Simulation, evaluation: 92/100
+- *Spring 2022 & 2023*: Electronic Commerce, evaluation: 90/100
+- *Spring 2022 & 2023*: Electronic Commerce Experiment, evaluation: 90/100
 
 
 ### Grants and Funding
