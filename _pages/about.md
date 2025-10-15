@@ -20,7 +20,7 @@ redirect_from:
   *Advisor: Yichuan Ding & Mehmet Gumus*  
   *2024.08 – present*
 
-- **Beijing University of Chemical Technology**, *Postdoctoral Fellow*  
+- **Beijing University of Chemical Technology**, *Assistant Professor*  
   School of Economics and Management  
   *2021.06 – 2024.06*
 
