@@ -33,7 +33,7 @@ redirect_from:
 - **Beijing Jiaotong University**, *Ph.D. in Statistics*  
   *2016.09 – 2021.06*
 
-- **Beijing Jiaotong University**, *B.S. in Information and Computing Science*  
+- **Beijing Jiaotong University**, *B.S. in Mathematics*  
   *2012.09 – 2016.06*
 
 ---
