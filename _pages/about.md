@@ -83,13 +83,5 @@ redirect_from:
 - *Spring 2022 & 2023*: Electronic Commerce Experiment, evaluation: 90/100
 
 
-### Grants and Funding
 
-- **2024.09–2026.09**  
-  *IVADO Postdoctoral Research Funding 2024*  
-  *AI Driven Resilience in Agrifood: Optimizing Operations in Quebec’s Online Grocery Platforms*
-
-- **2024.01–2025.12**  
-  *Beijing Natural Science Foundation*  
-  *Sustainable Operations and Policy Optimization in Ride-hailing Platforms*
   
