@@ -42,7 +42,7 @@ redirect_from:
 
 1. **Sun, K.**, Liu, Y., Yang, L.  
    *Order Ahead for Pickup: Promise or Peril?*  
-   Major Revision (3rd Round) at *Manufacturing & Service Operations Management* 
+  Forthcoming at *Manufacturing & Service Operations Management* 
    [https://dx.doi.org/10.2139/ssrn.3673617](https://dx.doi.org/10.2139/ssrn.3673617)
 
 2. Kong, G., Kong Q., Liu, Y., **Sun, K.**, Zhu, R.  
