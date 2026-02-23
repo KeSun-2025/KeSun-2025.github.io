@@ -43,7 +43,7 @@ Her research focuses on data-driven decision-making in operations and supply cha
 
 1. **Sun, Ke.**, Liu, Yunan., Yang, Luyi.  
    *Order Ahead for Pickup: Promise or Peril?*  
-Publish Online at *Manufacturing & Service Operations Management* 
+   Publish Online at *Manufacturing & Service Operations Management* 
    [https://pubsonline.informs.org/doi/full/10.1287/msom.2024.0865)
 
 2. Kong, Guangwen., Kong Qingxia., Liu, Yunan., **Sun, Ke.**, Zhu, Rui.  
