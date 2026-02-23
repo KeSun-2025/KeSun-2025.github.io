@@ -43,32 +43,27 @@ Her research focuses on data-driven decision-making in operations and supply cha
 
 1. **Sun, Ke.**, Liu, Yunan., Yang, Luyi.  
    *Order Ahead for Pickup: Promise or Peril?*  
-  Forthcoming at *Manufacturing & Service Operations Management* 
-   [https://dx.doi.org/10.2139/ssrn.3673617](https://dx.doi.org/10.2139/ssrn.3673617)
+Publish Online at *Manufacturing & Service Operations Management* 
+   [https://pubsonline.informs.org/doi/full/10.1287/msom.2024.0865)
 
 2. Kong, Guangwen., Kong Qingxia., Liu, Yunan., **Sun, Ke.**, Zhu, Rui.  
    *Harness the Power of Patience: The Evaluation of On-demand and Reservation Business Model of Ride Hailing Services*  
    R&R at *Manufacturing & Service Operations Management*  
    [https://ssrn.com/abstract=4741537](https://ssrn.com/abstract=4741537)
 
-3. **Sun, Ke.**, Liu, Yunan., Liu, Jingchen., Wang, Zhongbin.  
-   *Self-Service or Staffed Checkout? Service Channel Strategies in Supermarkets*  
-    under review at *Production and Operations Management*  
-   [https://dx.doi.org/10.2139/ssrn.5075233](https://dx.doi.org/10.2139/ssrn.5075233)
-
-4. **Sun, Ke.**, Liu, Yunan., Li, Xiang.  
+3. **Sun, Ke.**, Liu, Yunan., Li, Xiang.  
    *Mail Back or In-Store Dropoff? Optimal Design of Product-Exchange Policies in Omnichannel Retailing Systems*  
    *Omega*, **125** (2024), 103024.
 
-5. **Sun, Ke.**, Liu, Yunan., Li, Xiang.  
+4. **Sun, Ke.**, Liu, Yunan., Li, Xiang.  
    *Make Waiting Not to Seem Like Waiting: Capacity Management of Waiting-Area Entertainment*  
    *Operations Research Letters*, **2022**, **50**(6), 745–752.
 
-6. Wang, Jinting., **Sun, Ke.**  
+5. Wang, Jinting., **Sun, Ke.**  
    *Optimal Pricing and Capacity Sizing for Online Service Systems with Free Trials*  
    *OR Spectrum*, **44**(1), 57–86, **2021**.
 
-7. **Sun, Ke.**  
+6. **Sun, Ke.**  
    *Strategic Responses to the Aggregator Platform: Pricing and Information Sharing*  
    *Journal of Retailing and Consumer Services*, **79**, 103874, **2024**.
 
