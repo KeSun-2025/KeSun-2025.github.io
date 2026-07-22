@@ -48,7 +48,7 @@ Her research focuses on data-driven decision-making in operations and supply cha
 
 2. Kong, Guangwen., Kong Qingxia., Liu, Yunan., **Sun, Ke.**, Zhu, Rui.  
    *Harness the Power of Patience: The Evaluation of On-demand and Reservation Business Model of Ride Hailing Services*  
-   R&R at *Manufacturing & Service Operations Management*  
+   Major Revision at *Manufacturing & Service Operations Management*  
    [https://ssrn.com/abstract=4741537](https://ssrn.com/abstract=4741537)
 
 3. **Sun, Ke.**, Liu, Yunan., Li, Xiang.  
