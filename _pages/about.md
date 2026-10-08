@@ -10,8 +10,7 @@ redirect_from:
 
 ### About
 
-**Ke Sun** is a postdoctoral researcher in Operations Management at McGill University, Desautels Faculty of Management. 
-Her research focuses on data-driven decision-making in operations and supply chain management through service systems, using stochastic models, queueing theory, game theory, simulation, optimal control, and reinforcement learning.
+**Ke Sun** is an Assistant Professor of Operations Management at Koç University. Her research focuses on service operations, including service systems, inventory management, pricing, and strategic customer behavior, using stochastic models, queueing theory, game theory, simulation, optimal control.
 
 
 ### Professional Experience
