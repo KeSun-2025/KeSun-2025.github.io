@@ -10,7 +10,7 @@ redirect_from:
 
 ### About
 
-**Ke Sun** is an Assistant Professor of Operations Management at Koç University. Her research focuses on service operations, including service systems, inventory management, pricing, and strategic customer behavior, using stochastic models, queueing theory, game theory, simulation, optimal control.
+**Ke Sun** is an Assistant Professor of Operations Management and Information Systems (OMIS) at Koç University. Her research focuses on service operations, including service systems, inventory management, pricing, and strategic customer behavior, using stochastic models, queueing theory, game theory, simulation, optimal control.
 
 
 ### Professional Experience
