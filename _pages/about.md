@@ -17,6 +17,7 @@ redirect_from:
 
 - **Koç University**, *Assistant Professor*  
   College of Administrative Sciences and Economics
+  
   *2026.09 – present*
 
 - **McGill University**, *Postdoctoral Fellow*  
