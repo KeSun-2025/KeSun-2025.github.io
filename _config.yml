@@ -24,7 +24,7 @@ repository               : "KeSun-2025/KeSun-2025.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "my-photo.jpg"
+  avatar           : "my-photo.png"
   name             : "Ke Sun"
   # pronouns         : "She"  
   bio              : "Assistant Professor in College of Administrative Sciences and Economics"
