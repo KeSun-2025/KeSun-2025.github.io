@@ -16,14 +16,18 @@ Her research focuses on data-driven decision-making in operations and supply cha
 
 ### Professional Experience
 
+- **Koç University**, *Assistant Professor*  
+  College of Administrative Sciences and Economics
+  *2026.09 – present*
+
 - **McGill University**, *Postdoctoral Fellow*  
   Desautels Faculty of Management  
   *Advisor: Yichuan Ding & Mehmet Gumus*  
-  *2024.08 – present*
+  *2024.08 – 2026.08*
 
 - **Beijing University of Chemical Technology**, *Assistant Professor*  
   School of Economics and Management  
-  *2021.06 – 2024.06*
+  *2021.06 – 2024.07*
 
 ### Education
 
@@ -59,24 +63,12 @@ Her research focuses on data-driven decision-making in operations and supply cha
    *Make Waiting Not to Seem Like Waiting: Capacity Management of Waiting-Area Entertainment*  
    *Operations Research Letters*, **2022**, **50**(6), 745–752.
 
-5. Wang, Jinting., **Sun, Ke.**  
-   *Optimal Pricing and Capacity Sizing for Online Service Systems with Free Trials*  
-   *OR Spectrum*, **44**(1), 57–86, **2021**.
-
-6. **Sun, Ke.**  
-   *Strategic Responses to the Aggregator Platform: Pricing and Information Sharing*  
-   *Journal of Retailing and Consumer Services*, **79**, 103874, **2024**.
-
 
 ### Teaching Experience
 
 **McGill University**  
 - *Summer 2025*: Operations Management (MGCR 372), evaluation: 4.3/5
   
-**Beijing University of Chemical Technology**  
-- *Summer 2022 & 2023*: Matlab Simulation, evaluation: 92/100
-- *Spring 2022 & 2023*: Electronic Commerce, evaluation: 90/100
-- *Spring 2022 & 2023*: Electronic Commerce Experiment, evaluation: 90/100
 
 
 
